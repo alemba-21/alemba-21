@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **a crazy Rails API**
+## 🔭 I’m currently working on **a crazy Rails API**
 
-- 🌱 I’m currently learning **ReactJs,Javascript and Ruby on Rails**
+## 🌱 I’m learning **ReactJs,Javascript and Ruby on Rails**
 
-- 💬 Ask me about **ReactJs and Ruby on Rails**
+## 💬 Ask me about **ReactJs and Ruby on Rails**
 
-- 📫 How to reach me **alembakiragu@gmail.com**
+## 📫 How to reach me **alembakiragu@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/alex-kiragu-754690219](linkedin.com/in/alex-kiragu-754690219)
+## 📄 Know about my experiences [linkedin.com/in/alex-kiragu-754690219](linkedin.com/in/alex-kiragu-754690219)
 
-- ⚡ Fun fact **I think i'm cute😉 and funny😂**
+## ⚡ Fun fact **I think i'm cute😉 and funny😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,5 +31,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alemba-21&show_icons=true&locale=en" alt="alemba-21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alemba-21&" alt="alemba-21" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alemba-21&" alt="alemba-21" /></p>
 
