@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Kiragu</h1>
-<h3 align="center">A passionate Full stack Software Engineer from Kenya</h3>
+<h1 align="center">A passionate Full stack Software Engineer from Kenya</h1>
 <img align="right" alt="Coder GIF" height=350 width=450 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 - 🔭 I’m currently working on **a crazy Rails API**
